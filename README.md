@@ -52,11 +52,6 @@ EV-charging-behavior-analysis-and-financial-risk/
 
 5.How do charger working status and charging location relate to charging efficiency, charging time, charging cost, and risk rate?
 
-6.What EV-user segments can be identified using charging behavior, financial variables, app usage, and EV characteristics, and how do they differ in default risk?
-
-7.Can charging efficiency be predicted from charger status, EV type, battery capacity, charging time, app usage, and user behavior?
-
-
 
 ---
 
