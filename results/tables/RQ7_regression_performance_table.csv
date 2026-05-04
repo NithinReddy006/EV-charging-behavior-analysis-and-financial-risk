@@ -1,6 +1,0 @@
-Regression_Model,MAE,RMSE,R2
-Neural Network Regressor,0.2269,0.4458,0.9997
-Random Forest Regressor,0.388,0.8644,0.9988
-Gradient Boosting Regressor,0.9052,1.4568,0.9965
-Decision Tree Regressor,0.9007,1.844,0.9944
-Linear Regression,4.3214,5.3974,0.9524
