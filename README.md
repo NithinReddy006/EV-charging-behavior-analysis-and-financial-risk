@@ -43,12 +43,19 @@ EV-charging-behavior-analysis-and-financial-risk/
 ## 📚 Research Questions
 
 1.How accurately can high default risk be predicted using EV-user financial, demographic, app-usage, and charging-behavior variables?Which
+
 2.financial indicators are the strongest predictors of high default risk among EV charging users?
+
 3.Does adding charging-behavior and product-performance features improve default-risk prediction beyond demographic and financial variables alone?
+
 4.Which dataset features contribute most to machine-learning predictions of high default risk?
+
 5.How do charger working status and charging location relate to charging efficiency, charging time, charging cost, and risk rate?
+
 6.What EV-user segments can be identified using charging behavior, financial variables, app usage, and EV characteristics, and how do they differ in default risk?
+
 7.Can charging efficiency be predicted from charger status, EV type, battery capacity, charging time, app usage, and user behavior?
+
 ---
 
 ## 🤖 Machine Learning Models Used
@@ -88,3 +95,21 @@ EV-charging-behavior-analysis-and-financial-risk/
 ## ⚙️ How to Run the Project
 
 1. Install dependencies:
+   -r requirements.tx
+
+
+2. Open notebooks from `notebooks/`
+
+3. Run all cells to generate results
+
+---
+
+## 📈 Results
+- All figures are stored in `results/figures/`
+- All tables are stored in `results/tables/`
+
+---
+
+## 📌 Dataset Access
+The dataset is publicly available on Kaggle.  
+Dataset link is also provided : https://www.kaggle.com/datasets/shree0910/ev-charging-behavior-and-financial-risk-dataset 
