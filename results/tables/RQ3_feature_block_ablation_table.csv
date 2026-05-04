@@ -1,0 +1,6 @@
+Feature_Block_Model,Variables_Included,Accuracy,F1_score,ROC_AUC,Delta_ROC_AUC_vs_Demographics
+Demographics only,"Age, City_Tier, Income_Level",0.6353,0.5753,0.6522,0.0
+Financial behavior only,"Income_Level, Loan_Taken, Missed_Payments_Last_6M, Tenure_Months, Avg_Charge_Cost",0.7271,0.6884,0.7904,0.1381
+Charging behavior only,"EV_Type, Battery_Capacity_kWh, Charging_Sessions_Per_Month, Distance_Travelled_Per_Month, Charging_Location_Type, Charger_Working_Status, Charging_Time_Minutes, Charging_Efficiency_Index, App_Usage_Score",0.7627,0.7177,0.847,0.1947
+Financial + charging behavior,"Income_Level, Loan_Taken, Missed_Payments_Last_6M, Tenure_Months, Avg_Charge_Cost, EV_Type, Battery_Capacity_kWh, Charging_Sessions_Per_Month, Distance_Travelled_Per_Month, Charging_Location_Type, Charger_Working_Status, Charging_Time_Minutes, Charging_Efficiency_Index, App_Usage_Score",0.9931,0.9923,0.9999,0.3476
+Full feature model,"Age, City_Tier, EV_Type, Battery_Capacity_kWh, Charging_Sessions_Per_Month, Avg_Charge_Cost, Distance_Travelled_Per_Month, Income_Level, Loan_Taken, Missed_Payments_Last_6M, Tenure_Months, Charging_Location_Type, App_Usage_Score, Charger_Working_Status, Charging_Time_Minutes, Charging_Efficiency_Index",0.9939,0.9932,0.9999,0.3477

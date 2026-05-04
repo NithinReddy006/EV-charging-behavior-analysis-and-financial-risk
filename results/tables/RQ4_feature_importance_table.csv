@@ -1,0 +1,16 @@
+Rank,Feature,Importance,Direction_of_Association
+1,App_Usage_Score,0.152,Higher/present → lower risk
+2,Missed_Payments_Last_6M,0.1485,Higher/present → higher risk
+3,Loan_Taken,0.1457,Higher/present → higher risk
+4,Charging_Sessions_Per_Month,0.1417,Higher/present → higher risk
+5,Income_Level_Low,0.0903,Higher/present → higher risk
+6,Charging_Time_Minutes,0.0516,Higher/present → higher risk
+7,Charger_Working_Status_Not Working,0.0485,Higher/present → higher risk
+8,Charging_Efficiency_Index,0.0468,Higher/present → lower risk
+9,Charger_Working_Status_Working,0.0433,Higher/present → lower risk
+10,Income_Level_Medium,0.0334,Higher/present → lower risk
+11,Income_Level_High,0.0176,Higher/present → lower risk
+12,Battery_Capacity_kWh,0.0162,Higher/present → higher risk
+13,Distance_Travelled_Per_Month,0.0135,Higher/present → lower risk
+14,Avg_Charge_Cost,0.0129,Higher/present → lower risk
+15,Tenure_Months,0.0105,Higher/present → lower risk

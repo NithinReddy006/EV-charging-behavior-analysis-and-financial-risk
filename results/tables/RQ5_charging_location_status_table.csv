@@ -1,0 +1,7 @@
+Charging_Location_Type,Charger_Working_Status,N_Users,Mean_Efficiency_Index,Mean_Charging_Time_Minutes,Mean_Charge_Cost,High_Default_Risk_Percent
+Highway,Not Working,1050,34.29,119.48,446.48,88.67
+Highway,Working,5397,97.36,52.48,451.02,38.11
+Private,Not Working,886,33.26,121.06,445.8,87.58
+Private,Working,5307,97.18,52.7,451.4,34.82
+Public,Not Working,914,32.59,123.44,446.87,88.73
+Public,Working,5387,97.24,52.67,450.16,36.9

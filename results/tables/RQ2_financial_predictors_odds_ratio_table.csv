@@ -1,0 +1,9 @@
+Predictor,Log_Odds,Adjusted_Odds_Ratio,CI_Lower,CI_Upper,P_Value,Direction
+Loan_Taken,2.6126,13.634,12.3449,15.0577,0.0,Increases risk
+Income_Level_Low,2.6026,13.4984,11.8667,15.3545,0.0,Increases risk
+Missed_Payments_Last_6M,0.6746,1.9632,1.908,2.0199,0.0,Increases risk
+Income_Level_Medium,0.0142,1.0143,0.905,1.1368,0.8073,Increases risk
+Avg_Charge_Cost,0.0001,1.0001,0.9997,1.0004,0.6001,Increases risk
+Tenure_Months,-0.0002,0.9998,0.9967,1.0028,0.8786,Reduces risk
+Charging_Efficiency_Index,-0.0566,0.945,0.9428,0.9472,0.0,Reduces risk
+App_Usage_Score,-0.4053,0.6668,0.6555,0.6782,0.0,Reduces risk
